@@ -16,7 +16,8 @@ target/
 .apt_generated
 .classpath
 .factorypath
-.project
+.project  
+
 .settings
 .springBeans
 .sts4-cache
@@ -35,4 +36,8 @@ build/
 .vscode/
 
 ### Mac OS ###
-.DS_Store
+.DS_Store  
+
+
+# Environment Variables
+.env

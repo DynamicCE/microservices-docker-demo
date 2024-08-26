@@ -5,24 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1b135d5-f0f8-417f-9a98-4331e4633d75" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-mongo-rest-api/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-mongo-rest-api/src/main/java/com/erkan/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-mongo-rest-api/src/main/java/com/erkan/api/controller/UserApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-mongo-rest-api/src/main/java/com/erkan/business/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-mongo-rest-api/src/main/java/com/erkan/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-mongo-rest-api/src/main/java/com/erkan/repository/UserRepo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-mongo-rest-api/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-mongo-rest-api/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-mongo-rest-api/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-mongo-rest-api/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-mongo-rest-api/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-mongo-rest-api/src/main/resources/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-mongo-rest-api/src/main/java/com/erkan/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mongo-rest-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-mongo-rest-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mongo-rest-api/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-mongo-rest-api/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +106,7 @@
       <updated>1724522982676</updated>
       <workItem from="1724522984437" duration="3544000" />
       <workItem from="1724575377254" duration="8758000" />
-      <workItem from="1724665471260" duration="4004000" />
+      <workItem from="1724665471260" duration="6414000" />
     </task>
     <servers />
   </component>
