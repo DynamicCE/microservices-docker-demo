@@ -1,7 +1,6 @@
 version: '3.1'
 services:
   mongo:
-    image: mongo
+    image: mongo:latest  # En son MongoDB imajını kullanın (4.4 veya daha yeni)
     ports:
       - '27017:27017'
-    command: --serviceExecutor adaptive

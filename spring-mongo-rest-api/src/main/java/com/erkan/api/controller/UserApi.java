@@ -14,24 +14,23 @@ import java.util.List;
 @RequestMapping("/user")
 public
 class UserApi {
-    @Autowired
-    private
-    UserRepo userRepo;
 
+    private UserService userService;
+    public
+    UserApi ( UserService userService ) {
+        this.userService = userService;
+    }
     @PostConstruct
     public void init(){
         User user = new User();
         user.setFirstName ( "Yest" );
         user.setLastName ( "Noo" );
-        userRepo.save ( user );
+        userService.save ( user );
     }
 
-    private UserService userService;
 
-    public
-    UserApi ( UserService userService ) {
-        this.userService = userService;
-    }
+
+
     @PostMapping
     public
     ResponseEntity<User> add(@RequestBody User user){
